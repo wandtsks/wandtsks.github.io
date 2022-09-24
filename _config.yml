@@ -21,7 +21,8 @@
 title: 王涛的个人网站
 email: wandt1995@163.com
 description: >- # this means to ignore newlines until "baseurl:"
-  个人学习心得感悟都在这里
+  个人学习心得感悟
+  南传佛法/禅修/生物统计/R语言
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vipasona
