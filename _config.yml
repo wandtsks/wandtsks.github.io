@@ -28,7 +28,7 @@ twitter_username: vipasona
 github_username:  wandtsks
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
